@@ -14,19 +14,19 @@ Licensed under Apache License 2.0.
 1. **[Classical ML](./Classical-ML/):**  
    Classic machine learning algorithms like:
    - **[Classification](./Classical-ML/Classification/)**
-   - **[Clustering](./Classical-ML/Clustering/)**
+   - **[Clustering](./Classical-ML/Clustering/)** [1 Completed]
    - **[Dimensionality Reduction](./Classical-ML/Dimensionality-Reduction/)**
-   - **[Ensemble Methods](./Classical-ML/Ensemble-Methods/)**
+   - **[Ensemble Methods](./Classical-ML/Ensemble-Methods/)** [2 Completed]
    - **[Regression](./Classical-ML/Regression/)**
 
 2. **[AI Resurgence](./AI-Resurgence/):**  
    Neural networks including:  
-   - **[Attention-Mechanism](./AI-Resurgence/Attention-Mechanism/)**  
-   - **[Autoencoders-VAEs](./AI-Resurgence/Autoencoders-VAEs/)**  
-   - **[CNN](./AI-Resurgence/CNN/)**  
-   - **[GANs](./AI-Resurgence/GANs/)**  
-   - **[Reinforcement-Learning](./AI-Resurgence/Reinforcement-Learning/)**  
-   - **[RNN](./AI-Resurgence/RNN/)**  
+   - **[Attention-Mechanism](./AI-Resurgence/Attention-Mechanism/)**
+   - **[Autoencoders-VAEs](./AI-Resurgence/Autoencoders-VAEs/)**
+   - **[CNN](./AI-Resurgence/CNN/)** [1 Completed]
+   - **[GANs](./AI-Resurgence/GANs/)**
+   - **[Reinforcement-Learning](./AI-Resurgence/Reinforcement-Learning/)**
+   - **[RNN](./AI-Resurgence/RNN/)** [1 Completed]
    - **[Seq2Seq](./AI-Resurgence/Seq2Seq/)**
 
 3. **[New AI Architecture](./New-AI-Architecture/):**  
@@ -75,7 +75,7 @@ Licensed under Apache License 2.0.
    - **[Manufacturing](./Ambient-Systems-Applications/Manufacturing/)**
    - **[Smart-Cities](./Ambient-Systems-Applications/Smart-Cities/)**
    - **[Vertical-Farming](./Ambient-Systems-Applications/Vertical-Farming/)**
-   - **[Enterprise-Governance](./Ambient-Systems-Applications/Enterprise-Governance/)**
+   - **[Enterprise-Governance](./Ambient-Systems-Applications/Enterprise-Governance/)** [1 Completed]
 
 8. **[Deployment Methods](./Deployment-Methods/):**
    Deployment approaches including:
