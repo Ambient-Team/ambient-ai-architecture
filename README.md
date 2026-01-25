@@ -69,13 +69,13 @@ Licensed under Apache License 2.0.
    Industry use cases such as:  
    - **[Agriculture](./Ambient-Systems-Applications/Agriculture/)**
    - **[Building-Management](./Ambient-Systems-Applications/Building-Management/)**
-   - **[Decarbonization](./Ambient-Systems-Applications/Decarbonization/)**
+   - **[Decarbonization](./Ambient-Systems-Applications/Decarbonization/)** [1 Completed]
+   - **[Enterprise-Governance](./Ambient-Systems-Applications/Enterprise-Governance/)** [1 Completed]
    - **[Finances](./Ambient-Systems-Applications/Finances/)**
    - **[Health-Environment](./Ambient-Systems-Applications/Health-Environment/)**
    - **[Manufacturing](./Ambient-Systems-Applications/Manufacturing/)**
    - **[Smart-Cities](./Ambient-Systems-Applications/Smart-Cities/)**
    - **[Vertical-Farming](./Ambient-Systems-Applications/Vertical-Farming/)**
-   - **[Enterprise-Governance](./Ambient-Systems-Applications/Enterprise-Governance/)** [1 Completed]
 
 8. **[Deployment Methods](./Deployment-Methods/):**
    Deployment approaches including:
@@ -103,7 +103,7 @@ Licensed under Apache License 2.0.
    - **[Voice-Assistants](./Not-AI/Voice-Assistants/)**
 
 
-## Intellectual Property Nope and Licensing
+## Intellectual Property and Licensing
 
 This repository is licensed under the **Apache License 2.0**.  
 See the full license text in [`IP Notes/LICENSE.md`](./IP%20Notes/LICENSE.md).
