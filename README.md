@@ -5,8 +5,6 @@ This repository powers **Ambient Systems' core AI capabilities**, bridging **cla
 
 Use cases span **smart infrastructure**, **vertical farming**, **finance**, **sustainability**, **enterprise governance digital twins**, and **cloud-native AI deployments**. Ideal for developers, researchers, and enterprise adopters.
 
-**New Highlight:** Knowledge graphs + multi-agent AI for organizational digital twins and policy simulation (e.g., 15%+ bottleneck reduction in complex workflows, inspired by real-world PoCs like governance optimization for large energy firms).
-
 Licensed under Apache License 2.0.
 
 ---
@@ -14,7 +12,12 @@ Licensed under Apache License 2.0.
 ## 🧱 Repository Structure
 
 1. **[Classical ML](./Classical-ML/):**  
-   Classic machine learning algorithms like regression, classification, clustering, PCA, and ensemble methods.
+   Classic machine learning algorithms like:
+   - **[Classification](./Classical-ML/Classification/)**
+   - **[Clustering](./Classical-ML/Clustering/)**
+   - **[Dimensionality Reduction](./Classical-ML/Dimensionality-Reduction/)**
+   - **[Ensemble Methods](./Classical-ML/Ensemble-Methods/)**
+   - **[Regression](./Classical-ML/Regression/)**
 
 2. **[AI Resurgence](./AI-Resurgence/):**  
    Neural networks including:  
