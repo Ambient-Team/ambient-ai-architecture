@@ -77,7 +77,7 @@ Licensed under Apache License 2.0.
    - **[Smart-Cities](./Ambient-Systems-Applications/Smart-Cities/)**
    - **[Vertical-Farming](./Ambient-Systems-Applications/Vertical-Farming/)**
 
-8. **[Deployment Methods](./Deployment-Methods/):**
+8. **[Deployment Methods](./Deployment-Methods/):**  
    Deployment approaches including:
    - **[Cloud-Infrastructure](./Deployment-Methods/Cloud-Infrastructure/)**
    - **[Containerized](./Deployment-Methods/Containerized/)**
