@@ -1,5 +1,7 @@
 # 🌐 Ambient Systems ML/AI Repository
 
+Link: https://github.com/Ambient-Team/ambient-ai-architecture
+
 ## 🎯 Mission & Role  
 This repository powers **Ambient Systems' core AI capabilities**, bridging **classic machine learning** (1980s–1990s) and **modern generative AI** (2020s+). It builds on the [Ambient-Systems-DSA](https://github.com/Ambient-Team/Ambient-Systems-DSA) foundation and delivers **open-source, Python-based frameworks** for scalable industry applications.
 
@@ -75,7 +77,7 @@ Licensed under Apache License 2.0.
    - **[Health-Environment](./Ambient-Systems-Applications/Health-Environment/)**
    - **[Manufacturing](./Ambient-Systems-Applications/Manufacturing/)**
    - **[Smart-Cities](./Ambient-Systems-Applications/Smart-Cities/)**
-   - **[Vertical-Farming](./Ambient-Systems-Applications/Vertical-Farming/)**
+   - **[Vertical-Farming](./Ambient-Systems-Applications/Vertical-Farming/)** [4 Completed]
 
 8. **[Deployment Methods](./Deployment-Methods/):**  
    Deployment approaches including:
